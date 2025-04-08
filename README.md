@@ -115,8 +115,4 @@ Developed by [Balu Gorad]([https://your-website-or-linkedin.com](https://www.lin
 
 ---
 
-
-
----
-
 Let me know if you'd like me to generate a `requirements.txt` or deployment guide as well!
