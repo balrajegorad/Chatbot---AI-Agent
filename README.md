@@ -112,7 +112,3 @@ streamlit run frontend.py
 ## 🧑‍💻 Author
 
 Developed by [Balu Gorad]([https://your-website-or-linkedin.com](https://www.linkedin.com/in/balugorad/))
-
----
-
-Let me know if you'd like me to generate a `requirements.txt` or deployment guide as well!
